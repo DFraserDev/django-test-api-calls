@@ -10,7 +10,7 @@ This project was designed as a means to be self-taught in how to create an API t
 The project has two API calls you can make:
 
 • `http://<ip_address>:<port>/api/testcall`<br />
-• `http://<ip_address>:<port>/apiff6/bestiary/<enemy_number>`
+• `http://<ip_address>:<port>/api/ff6/bestiary/<enemy_number>`
 
 The first is just a simple Response with some text.
 
